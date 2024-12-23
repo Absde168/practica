@@ -1,0 +1,7 @@
+C:\Users\fimka\source\repos\practica\practica\obj\Debug\net8.0\practica.csproj.AssemblyReference.cache
+C:\Users\fimka\source\repos\practica\practica\obj\Debug\net8.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fimka\source\repos\practica\practica\obj\Debug\net8.0\practica.AssemblyInfoInputs.cache
+C:\Users\fimka\source\repos\practica\practica\obj\Debug\net8.0\practica.AssemblyInfo.cs
+C:\Users\fimka\source\repos\practica\practica\obj\Debug\net8.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\fimka\source\repos\practica\practica\obj\Debug\net8.0\practica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fimka\source\repos\practica\practica\obj\Debug\net8.0\practica.MvcApplicationPartsAssemblyInfo.cache
